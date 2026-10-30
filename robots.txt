@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://punta-pacifico-bungalows-mancora.vercel.app/sitemap.xml
